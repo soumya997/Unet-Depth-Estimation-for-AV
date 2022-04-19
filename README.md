@@ -44,7 +44,7 @@ I have logged metric details, system resources utilizations (default), inference
 # TODOs:
 - [ ] `DPT (Dense Prediction Transformers)`: SOTA on zero-shot depth estimation, outperforming MiDaS by 28% in relative performance. Trained on 1.4 million images. [`REFERENCE`](https://github.com/NielsRogge/Transformers-Tutorials/tree/master/DPT)
 - [ ] `GLPN (Global-Local Path Networks):` takes SegFormer as backbone with a lightweight head on top. SOTA on famous benchmarks (KITTI and NYUv2). [`REFERENCE`](https://github.com/NielsRogge/Transformers-Tutorials/tree/master/GLPN)
-- [ ] Read more papers on CNN based Lane Detection and Implement few of them. [`REFERENCE`](https://qiita.com/RanWensheng/items/c49e4bf3c55103546a30)
+- [ ] Read more papers on `CNN based Lane Detection` and Implement few of them. [`REFERENCE`](https://qiita.com/RanWensheng/items/c49e4bf3c55103546a30)
 
 
 
