@@ -30,6 +30,8 @@ I have logged metric details, system resources utilizations (default), inference
 |UnetDensenet121_imgnet:|[NB](https://github.com/soumya997/Unet-Depth-Estimation-for-AV/blob/main/Notebooks/unetdansenet121-e40-bs16-scheduler-on-fp16.ipynb)|[Link](https://wandb.ai/anony-mouse-229842/FYP%20Depth%20Estimation/runs/3dkl0xxa?apiKey=7efbb4a11601dbc6919ed687183a48ddc1bfbfb9)|
 |Unet++Resnet50_imgnet: |[NB](https://github.com/soumya997/Unet-Depth-Estimation-for-AV/blob/main/Notebooks/unet-resnet50-imgnet-adam-bs-16-e40-lr-1e-3.ipynb)|[Link](https://wandb.ai/anony-moose-229868/FYP%20Depth%20Estimation/runs/1nvwf4aa?apiKey=259067d9b6cec7b2aacbe2655de4b33ca2ea5657)|
 |Unet++DensNet121|[NB](https://github.com/soumya997/Unet-Depth-Estimation-for-AV/blob/main/Notebooks/unet-densnet121.ipynb)|[Link](https://wandb.ai/anony-moose-230136/FYP%20Depth%20Estimation/runs/g0zmx4ut?apiKey=95ce55e8cb6b7e590241d27f364a7e6e59e16230)|
+|somu: Pix2Pix Depth Estimation|[NB](https://github.com/soumya997/Unet-Depth-Estimation-for-AV/blob/main/Notebooks/somu-pix2pix-depth-estimation.ipynb)| Not Tracked |
+|Pix2Pix inference|[NB](https://github.com/soumya997/Unet-Depth-Estimation-for-AV/blob/main/Notebooks/pix2pix-inference.ipynb)|Not Tracked|
 
 # Inference Results:
 - Unet++DensNet121 model inference.
