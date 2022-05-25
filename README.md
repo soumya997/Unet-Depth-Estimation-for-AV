@@ -50,6 +50,12 @@ I have logged metric details, system resources utilizations (default), inference
 - [ ] Depth Estimation SOTA papers [`awesome-Monocular-Depth-Estimation`](https://github.com/paprrik/awesome-Monocular-Depth-Estimation)
 
 
-
+### Writing material:
+- Unet: https://towardsdatascience.com/review-u-net-biomedical-image-segmentation-d02bf06ca760
+- Unet: https://medium.com/analytics-vidhya/what-is-unet-157314c87634
+- Unet++: https://sh-tsang.medium.com/review-unet-a-nested-u-net-architecture-biomedical-image-segmentation-57be56859b20
+- Attention: https://www.kaggle.com/code/soumya9977/residual-unet-with-attention-eda-tta-w-b#Model-Training:
+- Unet backbone: https://www.kaggle.com/general/205141
+- Unet backbone: https://towardsdatascience.com/u-nets-with-resnet-encoders-and-cross-connections-d8ba94125a2c
 
 
