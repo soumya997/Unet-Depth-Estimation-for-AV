@@ -59,12 +59,12 @@ I have logged metric details, system resources utilizations (default), inference
 - Unet backbone: https://towardsdatascience.com/u-nets-with-resnet-encoders-and-cross-connections-d8ba94125a2c
 
 ### TODOs:
-- [ ] complete ppt
-- [ ] start with simulation
-  - [ ] simulate the results of lane detection in video
-    - [ ] SCNN
-    - [ ] ERFNet
-    - [ ] Unet
-  - [ ] simulate the results of depth estimation in video
-    - [ ] Pix2Pix
-    - [ ] Best model of depth estimation  
+- [x] complete ppt
+- [x] start with simulation
+  - [x] simulate the results of lane detection in video
+    - [x] SCNN
+    - [x] ERFNet
+    - [x] Unet
+  - [x] simulate the results of depth estimation in video
+    - [x] Pix2Pix
+    - [x] Best model of depth estimation  
